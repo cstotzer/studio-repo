@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Snippets>
+    <Snippet>
+        <Name label="Proc Options"/>
+        <Template uri="./options.sas"/>
+        <Documentation
+                uri="http://support.sas.com/documentation/cdl/en/proc/68954/HTML/default/viewer.htm#p0x1zf3cdgu1t1n1bsbd3aknwjo1.htm"/>
+    </Snippet>
+    <Snippet>
+        <Name label="Proc Setinit"/>
+        <Template uri="./setinit.sas"/>
+        <Documentation uri="http://sastechies.blogspot.com/2010/01/how-to-know-if-sas-software-product-is.html"/>
+    </Snippet>
+</Snippets>
